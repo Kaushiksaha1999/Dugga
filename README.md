@@ -1,7 +1,7 @@
 # Dugga
 We are creating this project with the latest web technologied link HTML7, CSS5, JS and firebase.<br/>
 #### Vission and Mission -
-We rcciitians created this website for live telecasting Durga Pujas Retuals. Due to corona pandemic most of people will stay at home so it will going help maintaining social distanceing along with givw us live pandal hopping. We also targeting those who are presently stays outside of Bengal by giving them an oppurtunity to take closer looks of our gratest FESTIVAL Durgaa Puja.
+We rcciitians created this website for live telecasting Durga Pujas Retuals. Due to corona pandemic most of people will stay at home so it will going help maintaining social distanceing besides live pandal hopping. We also targeting those who are presently stays outside of Bengal by giving them an oppurtunity to take closer looks of our gratest FESTIVAL Durgaa Puja.
 
 # Contributors
 
