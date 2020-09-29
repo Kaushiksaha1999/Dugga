@@ -12,7 +12,7 @@ contact - +91 8777817725
 
 ### 2. Devjyoti Das 
 Role in this Project - Web Devloper<br/>
-mail- joys@cloudbloq.io<br/>
+mail- devjyotidas98@gmail.com<br/>
 contact - +91 9875328590
 
 
