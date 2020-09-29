@@ -18,15 +18,15 @@ contact - +91 9875328590
 
 ### 3. Abhishek Dutta 
 Role in this Project- Marketing/ Photography<br/>
-mail- joys@cloudbloq.io<br/>
+mail- Babaidutta2907@gmail.com<br/>
 contact - +91 8336998524
 
 ### 4. Kaushik Saha 
 Role in this Project - Web Devloper<br/>
-mail- kausaha502@gmail.com
+mail- kausaha502@gmail.com<br/>
 contact - +91 8334032181
 
 ### 5. Avirup Tapadar
 Role in this Project- Web Devloper<br/>
-mail- joys@cloudbloq.io<br/>
+mail- abhiruptapadar@gmail.com<br/>
 contact - +91 7003794044
