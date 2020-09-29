@@ -27,6 +27,6 @@ mail- kausaha502@gmail.com<br/>
 contact - +91 8334032181
 
 ### 5. Avirup Tapadar
-Role in this Project- Web Devloper<br/>
+Role in this Project- Marketing/ Web Devloper<br/>
 mail- abhiruptapadar@gmail.com<br/>
 contact - +91 7003794044
